@@ -7,3 +7,6 @@ Updated list
 Jobs
 AWS SRE
 AZURE CE
+
+Application list 
+Dec 29th - 3
