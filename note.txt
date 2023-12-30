@@ -2,3 +2,11 @@ First test after git init initilization of TEAM11
 Names
 Company
 School
+
+Updated list
+Jobs
+AWS SRE
+AZURE CE
+
+Application list 
+Dec 29th - 3
